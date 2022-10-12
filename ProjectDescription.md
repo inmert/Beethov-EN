@@ -1,15 +1,7 @@
-# CS5001-Senior-Design
-## Project Name : Beethov-EN
+# Project Description
 
-### Team Members
-- Priyan Rai
+## Team: Morbin Solo
+- Priyan Rai (CS and Finance)
 
-### Faculty Advisor
-TBD
-
-## Project Abstract
+### Project Topic Area
 This is a Dall-E inspired music generation engine that will hopefully be able to compose 30 second snippets of musical compositions based on user inputs such as: Symphony in the style of mozart, Aggresive Violin solo by Bach etc.
-
-## Project Navigation
-- [Project Description](ProjectDescription.md)
-- [Team Contract](TeamContract.md)
