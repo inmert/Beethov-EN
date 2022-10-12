@@ -1,5 +1,4 @@
-# CS5001-Senior-Design
-## Project Name : Beethov-EN
+# Beethov-EN | Senior Capstone Project
 
 ### Team Members
 - Priyan Rai
