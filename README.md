@@ -12,3 +12,4 @@ This is a Dall-E inspired music generation engine that will be able to compose m
 ## Project Navigation
 - [Project Description](ProjectDescription.md)
 - [Team Contract](TeamContract.md)
+- [Task List](Homework_Submissions/Task_List.md)
