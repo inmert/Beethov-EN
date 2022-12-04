@@ -17,3 +17,5 @@ This is a Dall-E inspired music generation engine that will be able to compose m
 - [Timeline/Effort Matrix](Homework_Submissions/Task_List.md)
 - [Slideshow](Homework_Submissions/Task_List.md)
 - [Appendix](Homework_Submissions/Task_List.md)
+
+## Project has no budget or ABET constraints
