@@ -11,8 +11,8 @@ This is a Dall-E inspired music generation engine that will be able to compose m
 
 ## Project Navigation
 - [Project Description](README.md)
-- [Personal Bio](Homework_Submissions/Professional_Bio_Priyan_Rai.md)
-- [Design Diagrams](Homework_Submissions/TeamContract.md)
+- [Personal Bio](Homework_Submissions/Professional_Bio_PriyanRai.md)
+- [Design Diagrams](Homework_Submissions/Design_Diagrams)
 - [Task List](Homework_Submissions/Task_List.md)
 - [Timeline/Effort Matrix](Homework_Submissions/Task_List.md)
 - [Slideshow](Homework_Submissions/Task_List.md)
