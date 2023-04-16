@@ -13,7 +13,7 @@ This is a Dall-E inspired music generation engine that will be able to compose m
 - [Design Diagrams](Homework_Submissions/Design_Diagrams)
 - [Task List](Homework_Submissions/Task_List.md)
 - [How To](Homework_Submissions/HowTo.md)
-- [Poster](Homework_Submissions/PosterFinal.pdf)
+- [Poster](Homework_Submissions/Poster_Final.pdf)
 - [Timeline/Effort Matrix](Homework_Submissions/Timeline_Effort.md)
 - [Slideshow](https://docs.google.com/presentation/d/1PnDS7-w-HhcedK-apJhREPlPv2TgKBws/edit?usp=sharing&ouid=108564022775341956840&rtpof=true&sd=true)
 - [Appendix](Homework_Submissions/Task_List.md)
