@@ -13,6 +13,8 @@ After installation, open the Anaconda Navigator to verify that it has been insta
 Once you have opened the Anaconda Navigator, you should be able to see various tools such as Jupyter Notebook.
 
 ## Step 4: Install Jupyter Notebook
+![image](https://user-images.githubusercontent.com/54280820/232315689-9a244ca6-cfa9-4ef0-996f-a67db2e28e2c.png)
+
 
 ## Step 5: Open the Desired Project File in Jupyter Notebook
 
