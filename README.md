@@ -21,7 +21,7 @@ This is a Dall-E inspired music generation engine that will be able to compose m
 ### * Project has no budget or ABET constraints
 
 ### Sources
-- MidiNet (https://github.com/annahung31/MidiNet-by-pytorch)
+- MidiNet: https://github.com/annahung31/MidiNet-by-pytorch
 - Next-note prediction: from https://github.com/Skuldur/Classical-Piano-Composer
 - Code adapted from https://nbviewer.jupyter.org/github/craffel/midi-dataset/blob/master/Tutorial.ipynb
 - Code to convert from MIDI to music21 adapted from https://github.com/Skuldur/Classical-Piano-Composer
