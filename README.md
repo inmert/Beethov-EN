@@ -1,4 +1,6 @@
 # Beethov-EN | Senior Capstone Project
+![image](https://user-images.githubusercontent.com/54280820/232318936-5a6966f2-919f-4ef7-98d2-7830f45edba4.png)
+
 
 ### Team Members
 - Priyan Rai
